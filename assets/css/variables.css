@@ -23,11 +23,11 @@
     --font-PT-serif: "PT Serif", serif;
      
     --img-photo-home: url(../img/Photo-home.webp);
-    --img-F1: url(../img/F1.webp);
-    --img-F2: url(../img/F2.webp);
-    --img-F3: url(../img/F3.webp);
-    --img-F4: url(../img/F4.webp);
-    --img-F5: url(../img/F5.webp); 
+    --img-F1: url(../img/f1.jpg);
+    --img-F2: url(../img/f2.jpg);
+    --img-F3: url(../img/f3.jpg);
+    --img-F4: url(../img/f4.jpg);
+    --img-F5: url(../img/f5.jpg); 
 
     --img-overlay-stain-1: url(../img/stain-1.svg); 
     --img-overlay-stain-2: url(../img/stain-2.svg); 
