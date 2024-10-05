@@ -513,27 +513,27 @@
 }
 
 .slider-photo .img:nth-child(1) {
-    background-image: var(--img-F1);
+    background-image: var(--img-f1);
     background-position: 50% 20%;
 }
 
 .slider-photo .img:nth-child(2) {
-    background-image: var(--img-F2);
+    background-image: var(--img-f2);
     background-position: 20% 10%;
 }
 
 .slider-photo .img:nth-child(3) {
-    background-image: var(--img-F3);
+    background-image: var(--img-f3);
     background-position: 20% 22%;
 }
 
 .slider-photo .img:nth-child(4) {
-    background-image: var(--img-F4);
+    background-image: var(--img-f4);
     background-position: 20% 32%;
 }
 
 .slider-photo .img:nth-child(5) {
-    background-image: var(--img-F5);
+    background-image: var(--img-f5);
     background-position: 20% 5%;
 }
 
