@@ -77,7 +77,8 @@
 
     /* Audio */
     .box-audio {
-        bottom: 114px;/*114px;*/
+        /*bottom: 114px;*/
+        top: 70px;
         right: 0px;
     }
 
