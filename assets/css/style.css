@@ -6,8 +6,9 @@
     background-color: var(--gray);
     width: 87px;
     position: absolute;
-    bottom: 126px;
-    right: -14px;
+    /*bottom: 126px;*/
+    top:70px;
+    right: 2px;/*-14px;*/
     padding: 0.5rem 1rem;
     border-radius: 1rem 0 0 1rem;
 }
